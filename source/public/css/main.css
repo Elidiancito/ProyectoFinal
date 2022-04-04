@@ -1,0 +1,104 @@
+html {
+    font-family: 'Trebuchet';
+    background-color: #373737;
+}
+
+#seccion {
+    width: 1200px;
+    height: 1000px;
+    background-color: antiquewhite;
+    max-width: 0 auto;
+    margin: auto;
+    text-align: center;
+    background-color: #48B4FF;
+    color: white;
+}
+
+form {
+    background-color: #48B4FF;
+    text-align: center;
+    font-size: medium;
+}
+
+#foot {
+    text-align: center;
+    background-color: #48B4FF;
+    color: white;
+}
+
+#container {
+    text-align: center;
+}
+
+.nav-link {
+    color: white;
+}
+
+body {
+    color: #373737;
+}
+
+i {
+    color: white;
+}
+
+h2 {
+    font-family: 'Trebuchet';
+    color: white;
+    text-align: center;
+}
+
+h3 {
+    font-family: 'Trebuchet';
+    text-size-adjust: medium;
+    color: white;
+    text-align: center;
+}
+
+#th {
+    text-align: center;
+}
+
+p {
+    font-size: medium;
+    text-align: center;
+    background-color: #48B4FF;
+    color: white;
+}
+
+header {
+    background-color: grey;
+}
+
+.btn-primary {
+    background-color: #3182FF;
+    color: white;
+    text-align: center;
+    border-color: #3182FF;
+}
+
+.btn-secondary {
+    background-color: #3182FF;
+    color: white;
+    text-align: center;
+    border-color: #3182FF;
+}
+
+body {
+    background-color: #48B4FF;
+}
+
+img {
+    display: block;
+    border: 1px solid #ddd;
+    margin-left: auto;
+    margin-right: 4px;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+    margin: left;
+}
+
+footer {
+    background-color: #48B4FF;
+}
